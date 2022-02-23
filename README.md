@@ -1,4 +1,4 @@
-**American Sign Language Hand Gesture Recognition
+**American Sign Language Hand Gesture Recognition**
 
 American Sign Language (ASL) is a complete, complex language that employs signs made by moving the
 hands combined with facial expressions and postures of the body. It is the primary language of many
